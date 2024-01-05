@@ -1,4 +1,4 @@
-# Password Protected Node.js Express Web App
+# Password Protected Node.js Web App
 
 This Node.js Express web application implements a password-protected page. Users need to enter the correct password to access certain routes.
 
@@ -6,31 +6,31 @@ This Node.js Express web application implements a password-protected page. Users
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/Firdous19/SECRET-APP.git
-   ```
+      ```bash
+      git clone https://github.com/Firdous19/SECRET-APP.git
+      ```
 
 2. Navigate to the project directory:
 
-   ```bash
-   cd SECRET-APP
-   ```
+      ```bash
+      cd SECRET-APP
+      ```
 
 3. Install dependencies:
 
-   ```bash
-   npm install
-   ```
+      ```bash
+      npm install
+      ```
 
 ## Usage
 
 1. Start the application:
 
-   ```bash
-   npm start
-   ```
+      ```bash
+      npm start
+      ```
 
-   The app will be accessible at `http://localhost:1806` by default.
+      The app will be accessible at `http://localhost:1806` by default.
 
 2. Open your web browser and navigate to `http://localhost:1806` to view the home page.
 
